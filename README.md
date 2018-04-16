@@ -4,11 +4,12 @@ This repository holds the paper and web guide to putting on intergenerational te
 
 Drawing on the [DDJC DiscoTech Zine](http://detroitcommunitytech.org/sites/default/files/librarypdfs/how-to-discotech.pdf) and the January 2018 Brownsville DiscoTech, this open source guide provides templates and information on how to hold a similar program in a Brooklyn Public Library branch, but may prove useful to people worldwide interested in creating community-driven, intergenerational, culturally-relevant local technology education. 
 
-## Links to navigate this repository
+## Links to help you navigate this repository
 - [Paper](https://github.com/mayawagon/BPL-Discotech-zine/tree/master/Paper) includes assets relevant to the paper version of the zine, including indesign files and mockups
 - [Written sections](https://github.com/mayawagon/BPL-Discotech-zine/tree/master/Written%20sections) includes text/markdown files that contain writing for the publication, and might be used in either the paper, or the web version, or not at all
 - [LICENSE](LICENSE) contains the license for this content. It is Creative Commons Attribution Share Alike 4.0, which basically means that you should replicate, remix, and reuse this content, but just give credit, and share it with the same permissions. 
 - [CONTRIBUTING.md](CONTRIBUTING.md) tells you how you can contribute in big and small ways, with all kinds of skillsets, and what still needs to happen before this guide gets published.  
+- [Images](https://github.com/mayawagon/BPL-Discotech-zine/tree/master/Images) contains photos, flyers, and social media banners for previous DiscoTechs, as well as other assets that can be used in the zine.
 
 ## Glossary
 - **repository** or **repo**: a collection of documents related to your project, in which you create and save new code or content

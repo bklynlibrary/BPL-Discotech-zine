@@ -6,4 +6,4 @@
 - [Facilitation Guide](https://docs.google.com/document/d/1CTXISg5lVj7o21gjpXY4SLjUMWF6OhaERdlc7_yv_bM/edit?usp=sharing)
 - [Example stations and curriculum modules](https://docs.google.com/document/d/1NNU0HSnNU0elS2wYQM_ncGWCJcPhfxgVFFLagSlvPG4/edit?usp=sharing)
 - [Debrief](https://docs.google.com/document/d/1isWxRsQrbRqxY9zlMwY9cXkbFsky-D_xCJRUcG7mCmo/edit?usp=sharing)
--[Research plan](https://docs.google.com/document/d/1I1x_ZhYBU5JdYOKBU2fnP-foxVXteUjU7i-gXVkwtbs/edit?usp=sharing)	(this was never actually carried out)
+- [Research plan](https://docs.google.com/document/d/1I1x_ZhYBU5JdYOKBU2fnP-foxVXteUjU7i-gXVkwtbs/edit?usp=sharing)	(this was never actually carried out)

@@ -10,7 +10,7 @@ Drawing on the [DDJC DiscoTech Zine](http://detroitcommunitytech.org/sites/defau
 - The folder called [Written sections](https://github.com/mayawagon/BPL-Discotech-zine/tree/master/Written%20sections) includes text/markdown files that contain writing for the publication, and might be used in either the paper, or the web version, or not at all (i.e. drafts)
 - [LICENSE](LICENSE) contains the license for this project. It is Creative Commons Attribution Share Alike 4.0, which basically means that you should replicate, remix, and reuse this content, but just give credit, and share it with the same permissions. 
 - The folder called [Previous DiscoTechs](https://github.com/mayawagon/BPL-Discotech-zine/tree/master/Previous-discotechs) contains photos, flyers, and social media banners for previous DiscoTechs, as well as documentation and other assets that can be used in the zine, or on the site.
-	- Inside this folder is a text file called [links.md](Previous-discotechs/links.md), which contains links to different Google docs used when organizing the January event.
+	- Inside this folder is a text file called [links.md](Previous-discotechs/Jan-2018-Brownsville-DiscoTech/links.md), which contains links to different Google docs used when organizing the January 2018 event.
 
 ## Glossary
 - **repository** or **repo**: a collection of documents related to your project, in which you create and save new code or content

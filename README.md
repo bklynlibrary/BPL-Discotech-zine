@@ -2,7 +2,7 @@
 
 This repository holds the paper and web guide to putting on intergenerational technology skillshares (also known as DiscoTechs) in Brooklyn Public Libraries. It's a way to keep track of what still needs to be done to publish it, and for anyone to see how to contribute.
 
-Drawing on the [DDJC DiscoTech Zine](http://detroitcommunitytech.org/sites/default/files/librarypdfs/how-to-discotech.pdf) and the January 2018 Brownsville DiscoTech, this open source guide provides templates and information on how to hold a similar program in a Brooklyn Public Library branch, but may prove useful to people worldwide interested in creating community-driven, intergenerational, culturally-relevant local technology education. 
+Drawing on the [DDJC DiscoTech Zine](http://detroitcommunitytech.org/sites/default/files/librarypdfs/how-to-discotech.pdf) and the experience of the January 2018 Brownsville DiscoTech, this open source guide provides templates and information on how to hold a similar program in a Brooklyn Public Library branch, but may prove useful to people worldwide interested in creating community-driven, intergenerational, culturally-relevant local technology education. 
 
 ## Links to help you navigate this repository
 - [CONTRIBUTING.md](CONTRIBUTING.md) tells you how you can contribute in big and small ways, with all differnt kinds of skills, and what still needs to happen before this guide gets published.  
